@@ -32,7 +32,7 @@
 //  print all the details in the given function
 
 //var User = {
-//	firstname: "Tylor",
+//	firstname: "Taylor",
 //	lastname: "Swift",
 //	age: 30,
 //	showUserInfo: function () {
